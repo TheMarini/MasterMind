@@ -1,0 +1,38 @@
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjMasterMind\bin\Debug\prjMasterMind.exe
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjMasterMind\bin\Debug\prjMasterMind.pdb
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjMasterMind\obj\x86\Debug\prjMasterMind.frmMasterMind.resources
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjMasterMind\obj\x86\Debug\prjMasterMind.Properties.Resources.resources
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjMasterMind\obj\x86\Debug\prjMasterMind.csproj.GenerateResource.Cache
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjMasterMind\obj\x86\Debug\prjMasterMind.exe
+C:\Users\Bruno\AppData\Local\Temporary Projects\prjMasterMind\obj\x86\Debug\prjMasterMind.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.exe
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.frmMasterMind.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.Properties.Resources.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.csproj.GenerateResource.Cache
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\prjMasterMind\prjMasterMind\bin\Debug\prjMasterMind.exe
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\prjMasterMind\prjMasterMind\bin\Debug\prjMasterMind.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.exe
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.frmMasterMind.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.Properties.Resources.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.csproj.GenerateResource.Cache
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\Master Mind\prjMasterMind\prjMasterMind\bin\Debug\prjMasterMind.exe
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\Master Mind\prjMasterMind\prjMasterMind\bin\Debug\prjMasterMind.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.csprojResolveAssemblyReference.cache
+U:\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.exe
+U:\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.pdb
+U:\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\Master Mind\prjMasterMind\prjMasterMind\bin\Debug\prjMasterMind.exe
+U:\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\Master Mind\prjMasterMind\prjMasterMind\bin\Debug\prjMasterMind.pdb
+U:\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.csprojResolveAssemblyReference.cache
+U:\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.frmMasterMind.resources
+U:\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.Properties.Resources.resources
+U:\ETEC\3º Ano\Freddy\Exercicios de Conhecimento\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.csproj.GenerateResource.Cache
+U:\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.exe
+U:\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.pdb
+U:\Master Mind\prjMasterMind\prjMasterMind\bin\Debug\prjMasterMind.exe
+U:\Master Mind\prjMasterMind\prjMasterMind\bin\Debug\prjMasterMind.pdb
+U:\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.csprojResolveAssemblyReference.cache
+U:\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.frmMasterMind.resources
+U:\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.Properties.Resources.resources
+U:\Master Mind\prjMasterMind\prjMasterMind\obj\x86\Debug\prjMasterMind.csproj.GenerateResource.Cache
